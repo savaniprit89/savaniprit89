@@ -12,9 +12,6 @@
 
 ![prit savani streak stats](https://github-readme-streak-stats.herokuapp.com/?user=savaniprit89&)  
 
-
-<img src="https://github-profile-trophy.vercel.app/?username=savaniprit89">
-
 ## 🚀 Languages and Tools:
 <br>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -60,23 +57,3 @@
 <a href = "https://www.linkedin.com/in/prit-savani-346849214/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
-## Study : 
-
-      My name is prit savani . I am currently pursuing B-Tech in Computer Science 
-      At Sarvajanik college of engineering and technology , surat.
-
-      Currently I am in 6th semester.
-
-## Problem Solving : 
-
-      I have interest in competitive programming.
-
-      Languages and tools : 
-      I am familiar with C++ ( intermediate) , JAVA (oop) ,Python(basic) and Node.js and express.
-     
- 
-## Development : 
-
-     Carrying out interest in problem solving, i have put some effort in web development.
-
-     I have interest in making Restful api in node and express and MongoDB database.
