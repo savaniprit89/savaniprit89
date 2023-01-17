@@ -13,7 +13,7 @@
 ![prit savani streak stats](https://github-readme-streak-stats.herokuapp.com/?user=savaniprit89&)  
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=savaniprit90">
+<img src="https://github-profile-trophy.vercel.app/?username=savaniprit89">
 
 
 ## Study : 
@@ -29,15 +29,10 @@
 
       Languages and tools : 
       I am familiar with C++ ( intermediate) , JAVA (oop) ,Python(basic) and Node.js and express.
-      
-## Work experience : 
-      I am Upcoming SDE Intern at MasterCard.
-      I have experience of SDE Intern at Simulas organization , playing role as a backend developer creating and maintaining api 
+     
  
 ## Development : 
 
      Carrying out interest in problem solving, i have put some effort in web development.
 
      I have interest in making Restful api in node and express and MongoDB database.
-
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
