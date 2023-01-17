@@ -1,14 +1,14 @@
 
 # Introduction : 
 
-### Hi there 👋  i am Om prit savani  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+### Hi there 👋  i am prit savani  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 ### My Portfolio : https://prit-portfolio.netlify.app/
 
 
 
 <!-- ![prit savani's GitHub stats](https://github-readme-stats.vercel.app/api?username=savaniprit89) -->
-![prit savani github stats](https://github-readme-stats.vercel.app/api?username=aavaniprit89&show_icons=true)  
+![prit savani github stats](https://github-readme-stats.vercel.app/api?username=savaniprit89&show_icons=true)  
 
 ![prit savani streak stats](https://github-readme-streak-stats.herokuapp.com/?user=savaniprit89&)  
 
