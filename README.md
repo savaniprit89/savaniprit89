@@ -4,7 +4,7 @@
 
 
 
-### My Portfolio : https://prit-portfolio.netlify.app/](https://pritsavani.netlify.app/
+### My Portfolio : https://pritsavani.netlify.app/
 
 
 
