@@ -3,7 +3,7 @@
 <h3 align="center">Creative Software Engineer who thrives on turning challenging problems into innovative digital solutions. Expert in full-stack development with hands-on experience in React.js, Express.js, Spring Boot, C# and cloud platforms. I believe great software comes from understanding both user needs and technical excellence.</h3>
 <img align="right" alt="coding" width="310" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alphasmashers&label=Profile%20views&color=0e75b6&style=flat" alt="alphasmashers" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=savaniprit89&label=Profile%20views&color=0e75b6&style=flat" alt="alphasmashers" /> </p>
 
 
 ### My Portfolio : https://prit-portfolio.netlify.app/
