@@ -8,10 +8,10 @@
 
 
 
-<!-- ![prit savani's GitHub stats](https://github-readme-stats.vercel.app/api?username=savaniprit89) -->
+<!-- ![prit savani's GitHub stats](https://github-readme-stats.vercel.app/api?username=savaniprit89) 
 ![prit savani github stats](https://github-readme-stats.vercel.app/api?username=savaniprit89&show_icons=true)  
 
-![prit savani streak stats](https://github-readme-streak-stats.herokuapp.com/?user=savaniprit89&)  
+![prit savani streak stats](https://github-readme-streak-stats.herokuapp.com/?user=savaniprit89&)  -->
 
 ## 🚀 Languages and Tools:
 <br>
