@@ -1,7 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-# Introduction : 
+<h1 align="center">Hi 👋, I'm Prit Savani</h1>
+<h3 align="center">Creative Software Engineer who thrives on turning challenging problems into innovative digital solutions. Expert in full-stack development with hands-on experience in React.js, Express.js, Spring Boot, C# and cloud platforms. I believe great software comes from understanding both user needs and technical excellence.</h3>
+<img align="right" alt="coding" width="310" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-### Hi there 👋  i am prit savani  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alphasmashers&label=Profile%20views&color=0e75b6&style=flat" alt="alphasmashers" /> </p>
+
 
 ### My Portfolio : https://prit-portfolio.netlify.app/
 
