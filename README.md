@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Prit Savani</h1>
-<h3 align="center">Creative Software Engineer who thrives on turning challenging problems into innovative digital solutions. Expert in full-stack development with hands-on experience in React.js, Express.js, Spring Boot, C# and cloud platforms. I believe great software comes from understanding both user needs and technical excellence.</h3>
+<h3 align="center">Creative Software Engineer who thrives on turning challenging problems into innovative digital solutions. I enjoy designing scalable systems, building production-grade backend services, and solving real-world engineering problems. I’m especially interested in microservices architecture, event-driven systems, and cloud-native applications.</h3>
 
 
 
