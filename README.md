@@ -72,7 +72,7 @@ Cloud & DevOps:
 AWS • Docker • CI/CD • Caching Strategies • Message Queues
 
 
-##📈 Growth Philosophy
+## 📈 Growth Philosophy
 
 I’m constantly refining my fundamentals — data structures, algorithms, design patterns, and scalability principles — because great systems are built on strong foundations.
 
