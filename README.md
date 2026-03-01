@@ -71,14 +71,11 @@ System Design • Distributed Systems • Event-Driven Architecture • RESTful 
 Cloud & DevOps:
 AWS • Docker • CI/CD • Caching Strategies • Message Queues
 
-<br><br>
 
 ##📈 Growth Philosophy
 
 I’m constantly refining my fundamentals — data structures, algorithms, design patterns, and scalability principles — because great systems are built on strong foundations.
 
-My goal is simple:
-Build software that lasts.
 
 ## Connect with me:
 <p align="left">
