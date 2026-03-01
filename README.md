@@ -60,6 +60,19 @@
 
 <br><br> -->
 
+🛠 Core Strengths
+
+Languages:
+Java • Python • JavaScript • TypeScript • SQL • C++
+
+Concepts:
+System Design • Distributed Systems • Event-Driven Architecture • RESTful APIs • Asynchronous Processing • Database Optimization
+
+Cloud & DevOps:
+AWS • Docker • CI/CD • Caching Strategies • Message Queues
+
+<br><br>
+
 ## Connect with me:
 <p align="left">
 
