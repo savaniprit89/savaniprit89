@@ -5,7 +5,7 @@
 
 
 ### My Portfolio : https://pritsavani.netlify.app/
-
+### Problem Solver at : <a href = "https://leetcode.com/u/prit_savani/" target="_blank">Leetcode Profile</a>
 
 
 <!-- ![prit savani's GitHub stats](https://github-readme-stats.vercel.app/api?username=savaniprit89) 
@@ -82,5 +82,5 @@ I’m constantly refining my fundamentals — data structures, algorithms, desig
 
 <a href = "https://www.linkedin.com/in/savani-prit/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-<a href = "https://leetcode.com/u/prit_savani/" target="_blank">Leetcode Profile</a>
+
 
