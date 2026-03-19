@@ -63,7 +63,7 @@
 ## 🛠 Core Strengths
 
 Languages:
-Java • Python • JavaScript • TypeScript • SQL • C++
+Java • Python • JavaScript • TypeScript • SQL • C# • C++ 
 
 Concepts:
 System Design • Distributed Systems • Event-Driven Architecture • RESTful APIs • Asynchronous Processing • Database Optimization
