@@ -2,7 +2,7 @@
 
 Software Engineer with a passion for building scalable, production-grade systems. Currently pursuing my **M.S. in Computer Science at UT Dallas (GPA: 3.93)**, I've shipped real-world features at U-Haul and led development of a healthcare SaaS platform serving 10,000+ patients. I thrive in microservices, event-driven architecture, and cloud-native environments.
 
-**Portfolio:** [pritsavani.netlify.app](https://pritsavani.netlify.app/) &nbsp;|&nbsp; **LeetCode:** [prit_savani](https://leetcode.com/u/prit_savani/) &nbsp;|&nbsp; **Location:** Dallas, TX
+**Portfolio:** [pritsavani.netlify.app](https://pritsavani.netlify.app/) &nbsp;|&nbsp; **LeetCode:** [prit_savani](https://leetcode.com/u/prit_savani/)
 
 ---
 
