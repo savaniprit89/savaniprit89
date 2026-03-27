@@ -1,86 +1,59 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h1 align="center">Hi 👋, I'm Prit Savani</h1>
-<h3 align="center">Creative Software Engineer who thrives on turning challenging problems into innovative digital solutions. I enjoy designing scalable systems, building production-grade backend services, and solving real-world engineering problems. I’m especially interested in microservices architecture, event-driven systems, and cloud-native applications.</h3>
+# Hi, I'm Prit Savani 👋
 
+Software Engineer with a passion for building scalable, production-grade systems. Currently pursuing my **M.S. in Computer Science at UT Dallas (GPA: 3.93)**, I've shipped real-world features at U-Haul and led development of a healthcare SaaS platform serving 10,000+ patients. I thrive in microservices, event-driven architecture, and cloud-native environments.
 
+**Portfolio:** [pritsavani.netlify.app](https://pritsavani.netlify.app/) &nbsp;|&nbsp; **LeetCode:** [prit_savani](https://leetcode.com/u/prit_savani/) &nbsp;|&nbsp; **Location:** Dallas, TX
 
-### My Portfolio : https://pritsavani.netlify.app/
-### Problem Solver at : <a href = "https://leetcode.com/u/prit_savani/" target="_blank">Leetcode Profile</a>
+---
 
+### What I've Shipped
 
-<!-- ![prit savani's GitHub stats](https://github-readme-stats.vercel.app/api?username=savaniprit89) 
-![prit savani github stats](https://github-readme-stats.vercel.app/api?username=savaniprit89&show_icons=true)  
+- **U-Haul – Software Development Intern**
+  Designed and optimized RESTful microservices for the Dealer Operations platform, supporting 25,000+ active dealers. Built a production image upload pipeline with AWS S3 that saved $10K+ annually through compression. Identified and fixed event-driven contract cancellation gaps, cutting missed events by 40%.
 
-![prit savani streak stats](https://github-readme-streak-stats.herokuapp.com/?user=savaniprit89&)  
+- **7Seasol – Software Developer**
+  Built and maintained a full-stack healthcare SaaS platform serving 350+ dental practices and 10,000+ patients. Implemented RBAC with Node.js and PostgreSQL, reduced error rates by 30% through codebase restructuring, and built a real-time analytics dashboard with React.js and Chart.js. Automated appointment reminders and billing alerts, saving 30 hours of manual work weekly.
 
-## 🚀 Languages and Tools:
-<br>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40" />
-    </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-    </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
-    </a>
+- **Semicolon Solution – Web Developer Intern**
+  Built a containerized full-stack appointment system with Google Calendar API integration, reducing manual scheduling by 80%. Optimized API performance using PostgreSQL indexing and Redis caching — dropping response times from 90ms to 30ms at 10K+ daily requests.
 
+---
 
+### Featured Projects
 
-<br><br> -->
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [**E-Commerce Microservices Platform**](https://github.com/savaniprit89?tab=repositories) | Separate services for orders, inventory, and payments with async fulfillment via Kafka and Redis-cached catalog deployed on AWS ECS | Java, Spring Boot, PostgreSQL, Redis, Kafka, AWS |
+| [**Real-Time Sentiment Analysis Pipeline**](https://github.com/savaniprit89?tab=repositories) | Streaming pipeline processing 10K+ hourly news articles with entity extraction and NLP-powered sentiment scoring | Python, Kafka, spaCy, Elasticsearch, Kibana |
+| [**Expense Tracker with AI Insights**](https://github.com/savaniprit89?tab=repositories) | Expense app with CSV import, auto-categorization, and LLM-generated spending summaries | React.js, Node.js, PostgreSQL, OpenAI API, Chart.js |
 
-## 🛠 Core Strengths
+---
 
-Languages:
-Java • Python • JavaScript • TypeScript • SQL • C# • C++ 
+### Tech
 
-Concepts:
-System Design • Distributed Systems • Event-Driven Architecture • RESTful APIs • Asynchronous Processing • Database Optimization
+**Languages:** Java · Python · JavaScript · TypeScript · C# · C++ · SQL · Go
 
-Cloud & DevOps:
-AWS • Docker • CI/CD • Caching Strategies • Message Queues
+**Backend:** Spring Boot · Node.js · Express.js · FastAPI · Django · RESTful APIs · GraphQL
 
+**Frontend:** React.js · Next.js · AngularJS · Redux · TailwindCSS
 
-## 📈 Growth Philosophy
+**Databases:** PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch
 
-I’m constantly refining my fundamentals — data structures, algorithms, design patterns, and scalability principles — because great systems are built on strong foundations.
+**Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS) · Azure · Docker · Kubernetes · GitHub Actions · CI/CD
 
+**Messaging & Tools:** Apache Kafka · RabbitMQ · Git · JIRA · Jest · JUnit
 
-## Connect with me:
-<p align="left">
+---
 
-<a href = "https://www.linkedin.com/in/savani-prit/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+### 🌱 Beyond the Code
 
+I'm constantly sharpening my fundamentals — data structures, algorithms, system design, and scalability principles — because strong foundations are what separate good engineers from great ones. When I'm not building, you'll find me grinding LeetCode or exploring new tools at the intersection of distributed systems and cloud-native engineering.
 
+---
 
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/savani-prit)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://pritsavani.netlify.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/prit_savani/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:savaniprit89@gmail.com)
