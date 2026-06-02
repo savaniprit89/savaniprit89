@@ -1,6 +1,8 @@
 # Hi, I'm Prit Savani 👋
 
-Software Engineer with a passion for building scalable, production-grade systems. Currently pursuing my **M.S. in Computer Science at UT Dallas (GPA: 3.93)**, I've shipped real-world features at U-Haul and led development of a healthcare SaaS platform serving 10,000+ patients. I thrive in microservices, event-driven architecture, and cloud-native environments.
+Software Engineer with a passion for building scalable, production-grade systems. **M.S. in Computer Science at UT Dallas (GPA: 3.93)**, I've shipped real-world features at U-Haul and contributed to development of a healthcare SaaS platform serving 10,000+ patients. I thrive in microservices, event-driven architecture, and cloud-native environments and AI-powered products.
+
+🚀 Currently exploring Generative AI, Agentic Workflows, Distributed Systems, Cloud Architecture, and Machine Learning Applications.
 
 **Portfolio:** [pritsavani.netlify.app](https://pritsavani.netlify.app/) &nbsp;|&nbsp; **LeetCode:** [prit_savani](https://leetcode.com/u/prit_savani/)
 
@@ -23,9 +25,9 @@ Software Engineer with a passion for building scalable, production-grade systems
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [**E-Commerce Microservices Platform**](https://github.com/savaniprit89?tab=repositories) | Separate services for orders, inventory, and payments with async fulfillment via Kafka and Redis-cached catalog deployed on AWS ECS | Java, Spring Boot, PostgreSQL, Redis, Kafka, AWS |
-| [**Real-Time Sentiment Analysis Pipeline**](https://github.com/savaniprit89?tab=repositories) | Streaming pipeline processing 10K+ hourly news articles with entity extraction and NLP-powered sentiment scoring | Python, Kafka, spaCy, Elasticsearch, Kibana |
-| [**Expense Tracker with AI Insights**](https://github.com/savaniprit89?tab=repositories) | Expense app with CSV import, auto-categorization, and LLM-generated spending summaries | React.js, Node.js, PostgreSQL, OpenAI API, Chart.js |
+| [**AI Travel Planner (Agentic AI)**](https://github.com/savaniprit89/AI-Travel-Planner) | Developed an AI-powered travel agent using LangChain and function calling to autonomously plan trips and generate personalized itineraries. | Python, FastAPI, LangChain, OpenAI, Google Maps API, PostgreSQL, React |
+| [**Real-Time Sentiment Analysis Pipeline**](https://github.com/savaniprit89/Real-time-news-analysis) | Streaming pipeline processing 10K+ hourly news articles with entity extraction and NLP-powered sentiment scoring | Python, Kafka, spaCy, Elasticsearch, Kibana |
+| [**Expense Tracker with AI Insights**](https://github.com/savaniprit89/Expense-Tracker-AI-Insight) | Expense app with CSV import, auto-categorization, and LLM-generated spending summaries | React.js, Node.js, PostgreSQL, OpenAI API, Chart.js |
 
 ---
 
@@ -37,6 +39,8 @@ Software Engineer with a passion for building scalable, production-grade systems
 
 **Frontend:** React.js · Next.js · AngularJS · Redux · TailwindCSS
 
+**AI / Machine Learning:** OpenAI API • LangChain • Prompt Engineering • Agentic AI Systems • NLP • spaCy • Scikit-learn • PySpark • RAG Concepts • Function Calling • LLM Application Development
+
 **Databases:** PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch
 
 **Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS) · Azure · Docker · Kubernetes · GitHub Actions · CI/CD
@@ -47,7 +51,7 @@ Software Engineer with a passion for building scalable, production-grade systems
 
 ### 🌱 Beyond the Code
 
-I'm constantly sharpening my fundamentals — data structures, algorithms, system design, and scalability principles — because strong foundations are what separate good engineers from great ones. When I'm not building, you'll find me grinding LeetCode or exploring new tools at the intersection of distributed systems and cloud-native engineering.
+I'm constantly strengthening my foundations in data structures, algorithms, distributed systems, and scalability while exploring the rapidly evolving world of AI. Whether it's building full-stack applications, developing AI agents, or leveraging LLMs to accelerate development, I enjoy creating technology that solves real-world problems.
 
 ---
 
