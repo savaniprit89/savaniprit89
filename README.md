@@ -7,6 +7,15 @@ Software Engineer with a passion for building scalable, production-grade systems
 **Portfolio:** [pritsavani.netlify.app](https://pritsavani.netlify.app/) &nbsp;|&nbsp; **LeetCode:** [prit_savani](https://leetcode.com/u/prit_savani/)
 
 ---
+### Featured Projects
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [**AI Travel Planner (Agentic AI)**](https://github.com/savaniprit89/AI-Travel-Planner) | Developed an AI-powered travel agent using LangChain and function calling to autonomously plan trips and generate personalized itineraries. | Python, FastAPI, LangChain, OpenAI, Google Maps API, PostgreSQL, React |
+| [**Real-Time Sentiment Analysis Pipeline**](https://github.com/savaniprit89/Real-time-news-analysis) | Streaming pipeline processing 10K+ hourly news articles with entity extraction and NLP-powered sentiment scoring | Python, Kafka, spaCy, Elasticsearch, Kibana |
+| [**Expense Tracker with AI Insights**](https://github.com/savaniprit89/Expense-Tracker-AI-Insight) | Expense app with CSV import, auto-categorization, and LLM-generated spending summaries | React.js, Node.js, PostgreSQL, OpenAI API, Chart.js |
+
+---
 
 ### What I've Shipped
 
@@ -19,15 +28,6 @@ Software Engineer with a passion for building scalable, production-grade systems
 - **Semicolon Solution – Web Developer Intern**
   Built a containerized full-stack appointment system with Google Calendar API integration, reducing manual scheduling by 80%. Optimized API performance using PostgreSQL indexing and Redis caching — dropping response times from 90ms to 30ms at 10K+ daily requests.
 
----
-
-### Featured Projects
-
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**AI Travel Planner (Agentic AI)**](https://github.com/savaniprit89/AI-Travel-Planner) | Developed an AI-powered travel agent using LangChain and function calling to autonomously plan trips and generate personalized itineraries. | Python, FastAPI, LangChain, OpenAI, Google Maps API, PostgreSQL, React |
-| [**Real-Time Sentiment Analysis Pipeline**](https://github.com/savaniprit89/Real-time-news-analysis) | Streaming pipeline processing 10K+ hourly news articles with entity extraction and NLP-powered sentiment scoring | Python, Kafka, spaCy, Elasticsearch, Kibana |
-| [**Expense Tracker with AI Insights**](https://github.com/savaniprit89/Expense-Tracker-AI-Insight) | Expense app with CSV import, auto-categorization, and LLM-generated spending summaries | React.js, Node.js, PostgreSQL, OpenAI API, Chart.js |
 
 ---
 
